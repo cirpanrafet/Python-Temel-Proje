@@ -26,7 +26,7 @@ print(b)
 
 #SORU 2
 a = [[1, 2], [3, 4], [5, 6, 7]]
-a.reverse()http://localhost:8888/notebooks/Untitled1.ipynb?kernel_name=python3#
+a.reverse()
 for i in range(len(a)):
     (a[i])=(a[i])[::-1]
 print(a)
